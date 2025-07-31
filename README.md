@@ -78,6 +78,8 @@ Click ▶️ Run.
 The app’s design is based on the provided Figma file.
 
 📸 Screenshots
+![image 1](https://github.com/user-attachments/assets/2195fa98-0f0f-4a84-a748-94fd30155dd7)
+![image 2](https://github.com/user-attachments/assets/0934f0fd-cf28-4b47-aebe-d566c7af2766)
+![image 3](https://github.com/user-attachments/assets/77fbcd58-4559-4df0-9236-bfca90cdda45)
 
 
-🎥 Demo  
