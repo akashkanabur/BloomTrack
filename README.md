@@ -1,4 +1,4 @@
-# 🍼 Pregnancy Vitals Tracker with Reminders  
+#  Pregnancy Vitals Tracker with Reminders  
 
 A simple Android app built using **Kotlin** and **Jetpack Compose** that allows users to log and track pregnancy-related vitals, with reminders to ensure consistent tracking.  
 
